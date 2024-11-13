@@ -1,0 +1,622 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* header */
+.header {
+    width: 100%;
+    height: 55px;
+    box-shadow: 0px 0px 10px gray;
+    position: fixed;
+    top: 0px;
+    padding-top: 2%;
+    background-color: white;
+    z-index: 30;
+}
+
+
+
+
+body {
+
+    height: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.asd4 {
+    display: flex;
+    list-style: none;
+    padding-left: 20%;
+
+}
+
+.fgh5 {
+    padding-right: 40%;
+    font-size: 30px;
+}
+
+.tyu {
+
+    padding-right: 3%;
+    color: gray;
+    margin-top: 9px;
+}
+
+.tyu:hover {
+    color: black;
+    cursor: pointer;
+    margin-bottom: 10%;
+
+}
+
+.fgh5 {
+    padding-bottom: 10%;
+
+}
+
+/* main-section */
+.main-section {
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    width: 60%;
+}
+
+.wer {
+    margin-top: 250px;
+    font-size: 60px;
+}
+
+.zxc {
+    color: gray;
+    margin-top: 15px;
+    margin-right: 140px;
+}
+/* pading */
+.icon{
+    color: rgb(163, 158, 158);
+
+    margin-top: 90px;
+
+    transform: rotate(-20deg);
+
+}
+
+.icon1 {
+
+color: rgb(104, 159, 104);
+
+}
+
+.icon2 {
+transform: rotate(20deg);
+color: rgb(190, 190, 190);
+
+}
+
+.iop{
+    text-align: center;
+    margin-top: 10px;
+    font-family: "Poppins", sans-serif;
+    text-transform: uppercase;
+}
+.rtu{
+    text-align: center;
+    margin-bottom: 50px;
+color: gray;
+}
+.welcome{
+    text-align: center;
+}
+
+.bnm{
+
+padding-left: 50px;
+/* padding-bottom: 10px; */
+/* padding-top: 90px; */
+
+}
+.kio{
+    /* padding-bottom: 800px; */
+}
+
+.kio:hover{
+
+box-shadow: 15px 15px 0px #a2c0be;
+transition: 1s;
+
+}
+
+
+
+.section2{
+display: flex;
+
+
+}
+.hjk{
+padding-top:140px;
+padding-bottom: 15px;
+font-size: 23px;
+}
+
+.text{
+    margin-left: 20%;
+    width: 450px;
+    text-align: right;
+
+}
+.rty{
+    color:  #a2c0be;
+}
+
+.zxc9{
+width: 100px;
+height: 35px;
+border: none;
+border-radius: 20px;
+background-color:  #a2c0be;
+margin-top: 20px;
+}
+.zxc9:hover{
+    background-color: black;
+
+}
+
+.mol{
+    color: white;
+    text-decoration: none;
+
+
+}
+.gty{
+
+    margin-left: 5%;
+    width: 450px;
+    text-align: left;
+    margin-bottom: 100px;
+
+
+
+}
+
+.one{
+    
+    margin-left: 300px;
+    /* padding-bottom: 400px; */
+}
+.one:hover{
+    box-shadow: 15px 15px 0px  #a2c0be;
+    transition: 1s;
+
+}
+.opl{
+
+padding-top: 90px;
+padding-bottom: 15px;
+font-size: 23px;
+
+
+}
+
+.jukl{
+/* padding-top: 100px; */
+padding-bottom: 30px;
+
+}
+.qad{
+    padding-left: 40px;
+}
+.hyui{
+    color: gray;
+margin-top: 55px;
+padding-left: 80px;
+}
+
+
+
+.nmk{
+    color: #a2c0be;
+}
+p{
+color: gray;
+/* padding-left: 200px; */
+
+}
+h2{
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+
+.jukl{
+    transform: rotate(-20deg);
+color: #d0dfde;
+}
+
+.lxz{
+padding-left: 5px;
+color: grey;
+}
+.oplm{
+ color:#a2c0be ;   
+}
+.tyop{
+    transform: rotate(20deg);
+    color: #d0dfde;
+
+}
+.swq{
+    margin-bottom: 50px;
+    margin-bottom: 100px;
+    display: flex;
+}
+.swq:hover{
+box-shadow: 15px 15px 0px#a2c0be;   
+transition: 1s;
+}
+
+.lwq{
+    margin-left: 43px;
+}
+.bgy{
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.bqz{
+    margin-left: 20%;
+    width: 450px;
+    padding-top: 150px;
+}
+.hla{
+    text-align: left;
+    padding-top: 50px;
+}
+.qad{
+    padding-top: 60px;
+    padding-right: 50px;
+}
+.pzq:hover{
+    box-shadow: 15px 15px 0px#a2c0be;   
+transition: 1s;
+}
+/* sectaion4 */
+.pqm{
+    width: 100%;
+    height: 950px;
+    background-color: #a2c0be;
+    margin-top: 120px;
+}
+.fct{
+text-align: center;
+padding-top: 70px;
+
+}
+.muq{
+color: #d1e0df;
+transform: rotate(-20deg);
+
+}
+.lqw{
+    color: white;
+}
+.dnz{
+    transform: rotate(20deg);
+    color: #d1e0df;
+
+
+}
+.sbv{
+padding-top: 10px;
+padding-bottom: 2px;
+}
+.qcp{
+    color: white;
+    padding-top: 10px;
+}
+.saw{
+    padding-top: 90px;
+    /* padding-left: 50px; */
+    margin-bottom: 15px;
+}
+.ali{
+    width: 350px;
+    /* padding-left: 50px; */
+
+}
+.basm{
+border-radius: 15px;
+width: 33px;
+height: 23px;
+background-color: white;
+text-align: center;
+padding-top: 9px;
+
+}
+.basm:hover{
+background-color: rgb(0, 0, 0);
+color: white;
+
+}
+.mohamed{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.joo{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+/*  */
+.shahd{
+padding-top: 200px;
+text-align: center;
+}
+
+.ziad{
+    color: #d0dfde;
+    transform: rotate(-20deg);
+
+}
+.amr{
+    color: #a2c0be;
+}
+.hamd{
+    color: #d0dfde;
+    transform: rotate(20deg);
+
+}
+.tons{
+    padding-bottom: 80px;
+}
+.open{
+cursor: zoom-in;
+transition: .5s;
+
+}
+.open:hover{
+    transform: scale(1.1);
+transition: .5s;
+
+}
+/* sectaion9 */
+.aya{
+    padding-top: 200px;
+text-align: center;
+}
+.saed{
+    color: #d0dfde;
+    transform: rotate(-20deg);
+}
+.fathy{
+    color: #a2c0be;
+}
+
+.sabr{
+    color: #d0dfde;
+    transform: rotate(20deg);
+
+}
+
+.khalid{
+    padding-top: 10px;
+}
+
+.emad{
+    padding-bottom: 80px;
+}
+.close{
+/* margin-left: 200px; */
+/* padding-bottom: 500px; */
+margin-left: 30px;
+}
+
+.close:hover{
+transition: 1s;
+box-shadow: 10px 10px 0px #a2c0be;
+
+
+}
+.clup{
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.ahmeddd{
+    display: flex;
+    width: 1000px;
+    /* background-color: black; */
+    /* justify-content:center ; */
+    margin: auto;
+}
+.egypt{
+    padding-top: 10px;
+}
+.sodan{
+    padding-top: 10px;
+}
+.samy{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+.zizo{
+    margin-left: 50px;
+}
+.misy{
+    margin-left: 50px;
+}
+
+.londan{
+
+    margin-left: 50px;
+}
+
+.ronaldo{
+    padding-left: 50px;
+
+}
+
+.hassan{
+    color: #555959;
+    /* padding-left: 30px; */
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.omnia{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+    /* margin-top: 30px;
+    margin-left: 30px; */
+}
+.walid{
+    color: gray;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+.salahh{
+   
+    display: flex;
+}
+.went{
+    padding-top: 70px;
+    padding-left: 10px;
+}
+.cook{
+    color: gray;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.masr{
+    padding-top: 30px;
+    /* padding-right: 200px; */
+    margin: auto;
+}
+.buy{
+    width: 410px;
+height: 30px;
+border-radius: 5px;
+border: 0px;
+margin-left: 50px;
+}
+.go55{
+    background-color: #a2c0be;
+    width: 500px;
+    height: 600px;
+    margin-left: 300px;
+    /* display: flex; */
+}
+
+.sd332{
+border: 0px;
+/* height: 170px; */
+width: 410px;
+padding-bottom: 150px;
+padding-top: 10px;
+padding-left: 10px;
+border-radius: 10px;
+}
+.gabr{
+    color: gray;
+
+
+}
+
+.zain{
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+.lo8876{
+width: 470px;
+height: 500px;
+background-color: #6c757d;
+text-align: center;
+padding-top: 100px;
+
+}
+.zainn{
+    display: flex;
+    margin-top: 200px;
+}
+.ss190{
+    color: white;
+    padding-top: 20px;
+}
+.wmb890{
+    color: white;
+    text-align: left;
+    margin-left: 80px;
+}
+.aqre332{
+    color: white;
+    text-decoration: none;
+
+}
+.opq712{
+    width: 110px;
+    height: 40px;
+background-color: black;
+border-radius: 30px;
+margin-top: 20px;
+}
+/* aa22 */
+.kzrop701{
+   display: flex;
+   justify-content: space-evenly;
+}
+.jhgfdsa{
+    color: white;
+    margin-bottom: 20PX;
+}
+.qukly{
+color: grey;
+text-decoration: none;
+padding-bottom: 10PX;
+display: block;
+}
+.qukly:hover{
+    color: white;
+}
+.css3344{
+    border-radius: 15px;
+width: 33px;
+height: 23px;
+background-color: grey;
+text-align: center;
+padding-top: 9px;
+}
+
+.css3344:hover{
+    background-color: rgb(220, 212, 212);
+    color: white;
+}
+.zaqsdfvcx{
+    width: 65%;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+}
+.lkjnbvc1{
+    width: 100%;
+    height: 300px;
+    background-color: #333333;
+    padding-top: 150px;
+
+
+}
+.alahhhh{
+    padding-top: 20px;
+}
+.mohamed44{
+    color: red;
+}
+.plmnbvcxzaq:hover{
+    color: black;
+    cursor: pointer;
+}
